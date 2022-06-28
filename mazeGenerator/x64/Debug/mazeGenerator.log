@@ -1,3 +1,3 @@
 ﻿  main.cpp
-D:\MyProjects\C++\Programs\mazeGenerator\mazeGenerator\main.cpp(310,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\MyProjects\C++\Programs\mazeGenerator\mazeGenerator\main.cpp(484,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   mazeGenerator.vcxproj -> D:\MyProjects\C++\Programs\mazeGenerator\x64\Debug\mazeGenerator.exe

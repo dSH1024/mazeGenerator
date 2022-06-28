@@ -3,8 +3,8 @@
 
 namespace constants
 {
-	constexpr int mapWidth = 75;
-	constexpr int mapHeight = 20;
+    constexpr int mapWidth = 121;
+    constexpr int mapHeight = 45;
 }
 
 #endif
